@@ -1,0 +1,54 @@
+/* style.css */
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .header {
+    color: #333;
+    border:5px solid black;
+    padding-bottom:160px;
+  }
+
+  .handExplanation{
+    border-bottom:5px solid black;
+  }
+
+  .explain-detail{
+    font-size:32px;
+  }
+
+  .numberImage{
+    height:400px;
+    width:400px;
+    padding-top:50px;
+    padding-left:100px;
+  }
+
+  .header{
+    height:90px;
+  }
+
+  .main{
+    height:800px;
+  }
+
+  .footer{
+    height:270px;
+  }
+
+  .optionHand{
+    padding:10px;
+    font-size:20px;
+    color: red;
+  }
+
+  .selectNumber{
+    padding : 30px;
+    margin-bottom:30px;
+  }
+
+  .submitNumber{
+    padding : 20px;
+    background-color : gray;
+  }
